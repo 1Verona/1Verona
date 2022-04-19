@@ -6,7 +6,7 @@
 - 🗣️ENG/PT-BR
 - 🪐Interested in web design, arquitecture and video editing
 
-## 🏙️Minhas Social media
+## 🏙️My Social media
 [![texto alternativo](https://i.imgur.com/u9VnLwi.png)](http://www.twitter.com/JaoVerona) [![texto alternativo](https://i.imgur.com/aGq8LyZ.png)](http://instagram.com/JaoVerona/) 
 
 ## 📚 Learning 
