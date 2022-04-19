@@ -1,3 +1,5 @@
+<img align="right" width="350px" style="margin-top:-20px" src="https://i.imgur.com/XlYgIRM.png">
+
 ## 👋 Hi! Welcome to my profile
  
 - ### About me
