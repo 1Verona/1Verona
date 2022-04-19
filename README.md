@@ -10,4 +10,4 @@ Meu nome é João Gabriel Verona mas todo mundo me chama de Verona!
 
 
 ## Snake
-![snake gif](https://github.com/1Verona/1Verona/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/1Verona/1Verona/blob/output/github-contribution-grid-snake.svg)
