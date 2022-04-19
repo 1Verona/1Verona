@@ -16,6 +16,6 @@
 
 
 
-<img height="154em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=1Verona&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="155em" width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=1Verona&repo=PortfolioTi&theme=algolia"/> 
+<img height="154em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=1Verona&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="100em" width="500em" src="https://github-readme-stats.vercel.app/api/pin/?username=1Verona&repo=PortfolioTi&theme=algolia"/> 
 ## Snake
 ![snake gif](https://github.com/1Verona/1Verona/blob/output/github-contribution-grid-snake.svg)
