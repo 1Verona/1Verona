@@ -3,7 +3,7 @@
 - ### About me
 - 🥱I'm João Gabriel Verona also known as Verona!
 - 🔭Student at Escola S (Sc, Br)
-- 🗣️ING/PT-BR
+- 🗣️ENG/PT-BR
 - 🪐Interested web design, arquitecture and video editing
 
 ## 🏙️Minhas Social media
