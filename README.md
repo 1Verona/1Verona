@@ -3,6 +3,7 @@
 - ### Sobre mim
 - 🥱Meu nome é João Gabriel Verona mas todo mundo me chama de Verona!
 - 📝Estudo na Escola S (sc)
+- 🗣️Sou fluente em inglês desde 2021
 - 🪐Me interesso por web design, arquitetura e edição de vídeo
 
 ## 🏙️Minhas Redes
