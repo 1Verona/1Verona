@@ -3,10 +3,12 @@
 ## 👋 Hi! Welcome to my profile
  
 - ### About me
-- 🥱I'm João Gabriel Verona also known as Verona!
-- 🔭Student at Escola S (Sc, Br)
-- 🗣️ENG/PT-BR
-- 🪐Interested in web design, arquitecture and video editing
+- 🥱⠀I'm João Gabriel Verona also known as Verona!
+- 🔭⠀Student at Escola S (Sc, Br)
+- 🗣️⠀ENG/PT-BR
+- 🪐⠀Interested in web design, arquitecture and video editing
+- ✉️⠀jgabrielwverona@gmail.com
+
 
 ## 🏙️ My Social Media
 [![texto alternativo](https://i.imgur.com/u9VnLwi.png?1)](http://www.twitter.com/JaoVerona)⠀ [![texto alternativo](https://i.imgur.com/aGq8LyZ.png?1)](http://instagram.com/JaoVerona/)⠀
