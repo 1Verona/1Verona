@@ -8,7 +8,7 @@
 - 🗣️ENG/PT-BR
 - 🪐Interested in web design, arquitecture and video editing
 
-## 🏙️My Social Media
+## 🏙️ My Social Media
 [![texto alternativo](https://i.imgur.com/u9VnLwi.png?1)](http://www.twitter.com/JaoVerona)⠀ [![texto alternativo](https://i.imgur.com/aGq8LyZ.png?1)](http://instagram.com/JaoVerona/)⠀
 
 ## 📚 Learning 
