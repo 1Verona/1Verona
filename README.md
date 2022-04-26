@@ -2,6 +2,8 @@
 
 ## 👋 Hi! Welcome to my profile
  
+ #### Dark mode Highly recomended👀
+ 
 - ### About me
 - 🥱⠀I'm João Gabriel Verona also known as Verona!
 - 🔭⠀Student at Escola S (Sc, Br)
