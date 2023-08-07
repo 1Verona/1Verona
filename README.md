@@ -24,4 +24,22 @@
 <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=1Verona&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=1Verona&repo=PortfolioTi&theme=algolia"/>  
 
 ## Snake
+- uses: Platane/snk@v3
+  with:
+    github_user_name: ${{1verona }}
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+  env:
+
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ![snake gif](https://github.com/1Verona/1Verona/blob/output/github-contribution-grid-snake.svg)
