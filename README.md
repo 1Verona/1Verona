@@ -17,6 +17,7 @@
 ## 📚 Learning 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width=50 /> <img src="https://i.imgur.com/TwXniwd.png" width=50 /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" width=51 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width=50 />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width=50 />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width=50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=50/> <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" width=50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50/>
 <img src="https://i.imgur.com/h3RdtIG.png" width=50/>
+<img src="https://i.imgur.com/nLlb5EX.png" width=50/>
 <img src="https://i.imgur.com/rhQjA7B.png" width=50/>
 
 
