@@ -7,7 +7,7 @@
 - ### About me
 - 🥱⠀I'm João Gabriel Verona aka Verona!
 - 🗣️⠀ENG/PT-BR
-- ✉️⠀joaoveron17@gmail.com
+- ✉️⠀joaoverona17@gmail.com
 
 
 
