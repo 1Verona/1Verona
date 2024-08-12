@@ -6,10 +6,8 @@
  
 - ### About me
 - 🥱⠀I'm João Gabriel Verona aka Verona!
-- 🔭⠀Student at Escola S (Sc, Br)
 - 🗣️⠀ENG/PT-BR
-- 🪐⠀Interested in web design, arquitecture and video editing
-- ✉️⠀jgabrielwverona@gmail.com
+- ✉️⠀joaoveron17@gmail.com
 
 
 
