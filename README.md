@@ -18,6 +18,6 @@
 <img src="https://i.imgur.com/U2LoXjc.png" width=50/>
 <img src="https://i.imgur.com/nLlb5EX.png" width=50/>
 <img src="https://i.imgur.com/rhQjA7B.png" width=50/>
-
+<img src="https://i.imgur.com/1awxIWe.png" width=50/>
 
 <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=1Verona&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
