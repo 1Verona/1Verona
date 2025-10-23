@@ -18,6 +18,5 @@
 <img src="https://i.imgur.com/U2LoXjc.png" width=50/>
 <img src="https://i.imgur.com/nLlb5EX.png" width=50/>
 <img src="https://i.imgur.com/rhQjA7B.png" width=50/>
-<img src="https://i.imgur.com/DJSN9ak.png" width=50/>
 <img src="https://i.imgur.com/1awxIWe.png" width=50/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width=50/>
