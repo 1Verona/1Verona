@@ -1,8 +1,7 @@
 
 
 ## 👋 Hi! Welcome to my profile
- 
- ##### 👀 Dark mode Highly recomended 👀
+
  
 - ### About me
 - 🥱⠀I'm João Gabriel Verona aka Verona!
