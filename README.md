@@ -19,3 +19,8 @@
 <img src="https://i.imgur.com/rhQjA7B.png" width=50/>
 <img src="https://i.imgur.com/1awxIWe.png" width=50/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width=50/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width=50/>
+<img src="https://nuxt.com/assets/design-kit/icon-green.svg" width=50/>
+
+
+
