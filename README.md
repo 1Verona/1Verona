@@ -1,1 +1,14 @@
-<img width="539" height="209" alt="Screenshot 2025-11-25 at 15 34 07" src="https://github.com/user-attachments/assets/65549b17-9525-4ad8-946e-895713ea8898" />
+'''$ verofetch
+                                     joao@verona
+                                     -----------
+
+                                     Uptime: 19 years
+                                     OS: MacOS, Arch Linux
+__     __                            DE: Hyprland
+\ \   / /__ _ __ ___  _ __   __ _    IDE/ADE: Cursor, Warp
+ \ \ / / _ \ '__/ _ \| '_ \ / _` |   Hobby: gaming, gym, video editing
+  \ V /  __/ | | (_) | | | | (_| |   Other: --
+   \_/ \___|_|  \___/|_| |_|\__,_|
+                                     contacts
+                                     ---------
+                                     Email: 1veronacode@gmail.com'''
